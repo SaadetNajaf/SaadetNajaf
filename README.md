@@ -24,7 +24,7 @@ Continuously learning and applying new technologies to grow as a developer.
 🌐 Technologies I Use
 
 Frontend:
-React <a href="https://iconscout.com/icons/react" class="text-underline font-size-sm" target="_blank">React</a> by <a href="https://iconscout.com/contributors/jagathish" class="text-underline font-size-sm" target="_blank">Jagathish Saravanan</a>, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS, SASS, Bootstrap
+React <a href="https://iconscout.com/icons/react"></a>, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS, SASS, Bootstrap
 
 Backend:
 Node.js, Express, TypeScript, MongoDB, PostgreSQL
