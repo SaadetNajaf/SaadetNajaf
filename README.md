@@ -38,26 +38,12 @@ Git, GitHub, Docker, AWS, Visual Studio Code, Postman
 💬 Let’s Connect!
 
 I’m always open to collaborating on exciting projects, discussing innovative ideas, or just connecting! Feel free to reach out:
-📫 Email: saadetnajaf@gmail.com
-💼 Portfolio: Coming Soon! 🚀
-🔗 LinkedIn: https://www.linkedin.com/in/saadetnajaf/
+📫 Email: saadetnajaf@gmail.com<br/>
+💼 Portfolio: Coming Soon! 🚀<br/>
+🔗 LinkedIn: https://www.linkedin.com/in/saadetnajaf/<br/>
 
 
 
-### 🖥️ **Frontend**
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" alt="React" />  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="50" height="50" alt="Next.js" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" alt="JavaScript" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML5" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS3" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Tailwind CSS" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50" height="50" alt="SASS" /> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50" height="50" alt="Bootstrap" />
-
----
-
-### ⚙️ **Backend**
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="Node.js" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="50" height="50" alt="Express" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/TypeScript_Logo_2020.svg" width="50" height="50" alt="TypeScript" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="50" height="50" alt="MongoDB" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50" alt="PostgreSQL" />
-
----
-
-### 📱 **Mobile**
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" alt="React Native" /> <img src="[https://upload.wikimedia.org/wikipedia/commons/3/3c/Expo_Logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ92Y0km7IV28UhZsRkx1Xvdxiyc_aN_I6rWA&s)" width="50" height="50" alt="Expo" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="50" height="50" alt="Redux" />
-
----
-
-### 🔧 **Tools**
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" height="50" alt="Git" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" height="50" alt="GitHub" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="50" height="50" alt="Docker" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" alt="AWS" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50" alt="Visual Studio Code" /> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="50" height="50" alt="Postman" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" alt="React" />  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="50" height="50" alt="Next.js" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" alt="JavaScript" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML5" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS3" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Tailwind CSS" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50" height="50" alt="SASS" /> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50" height="50" alt="Bootstrap" /><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="Node.js" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="50" height="50" alt="Express" /> <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4c/TypeScript_Logo_2020.svg](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.svg
+)" width="50" height="50" alt="TypeScript" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="50" height="50" alt="MongoDB" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50" alt="PostgreSQL" /> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" alt="React Native" /> <img src="[https://upload.wikimedia.org/wikipedia/commons/3/3c/Expo_Logo.svg](https://docs.expo.dev/static/images/brand/logo.svg
+)(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ92Y0km7IV28UhZsRkx1Xvdxiyc_aN_I6rWA&s)" width="50" height="50" alt="Expo" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="50" height="50" alt="Redux" /><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" height="50" alt="Git" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" height="50" alt="GitHub" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="50" height="50" alt="Docker" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" alt="AWS" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50" alt="Visual Studio Code" /> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="50" height="50" alt="Postman" />
