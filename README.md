@@ -1,4 +1,4 @@
-👋 Hello! I'm <b>Saadet Najaf</b>
+### 👋 Hello! I'm Saadet Najaf
 
 I am a Senior Full-Stack Developer specializing in crafting end-to-end solutions with modern technologies. My mission is to elevate user experience to the highest level, simplifying the journey toward business goals with every project I deliver.
 
