@@ -1,4 +1,4 @@
-👋 Hello! I'm Saadet Najaf
+👋 Hello! I'm Senan
 
 I am a Senior Full-Stack Developer specializing in crafting end-to-end solutions with modern technologies. My mission is to elevate user experience to the highest level, simplifying the journey toward business goals with every project I deliver.
 
@@ -24,7 +24,7 @@ Continuously learning and applying new technologies to grow as a developer.
 🌐 Technologies I Use
 
 Frontend:
-React <a href="https://iconscout.com/icons/react"></a>, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS, SASS, Bootstrap
+React, Next.js, JavaScript, [HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg), CSS3, Tailwind CSS, SASS, Bootstrap
 
 Backend:
 Node.js, Express, TypeScript, MongoDB, PostgreSQL
