@@ -55,7 +55,7 @@ I’m always open to collaborating on exciting projects, discussing innovative i
 ---
 
 ### 📱 **Mobile**
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" alt="React Native" /> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Expo_Logo.svg" width="50" height="50" alt="Expo" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="50" height="50" alt="Redux" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" alt="React Native" /> <img src="[https://upload.wikimedia.org/wikipedia/commons/3/3c/Expo_Logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ92Y0km7IV28UhZsRkx1Xvdxiyc_aN_I6rWA&s)" width="50" height="50" alt="Expo" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="50" height="50" alt="Redux" />
 
 ---
 
